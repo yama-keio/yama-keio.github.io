@@ -1,0 +1,31 @@
+/* assets/css/aiueo.css */
+
+ol.aiueo {
+  list-style: none;
+  padding-left: 2em;
+}
+
+ol.aiueo>li:nth-child(1)::marker,
+ol.aiueo>li:nth-child(1)::before {
+  content: "ア. ";
+}
+
+ol.aiueo>li:nth-child(2)::marker,
+ol.aiueo>li:nth-child(2)::before {
+  content: "イ. ";
+}
+
+ol.aiueo>li:nth-child(3)::marker,
+ol.aiueo>li:nth-child(3)::before {
+  content: "ウ. ";
+}
+
+ol.aiueo>li:nth-child(4)::marker,
+ol.aiueo>li:nth-child(4)::before {
+  content: "エ. ";
+}
+
+ol.aiueo>li:nth-child(5)::marker,
+ol.aiueo>li:nth-child(5)::before {
+  content: "オ. ";
+}
