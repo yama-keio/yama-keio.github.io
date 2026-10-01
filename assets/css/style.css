@@ -30,7 +30,3 @@ ol.aiueo li:nth-child(4)::before {
 ol.aiueo li:nth-child(5)::before {
   content: "オ. ";
 }
-
-ol.aiueo {
-  background: yellow !important;
-}
